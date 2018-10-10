@@ -1,4 +1,5 @@
 # leetcode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [C++](./algorithms/cpp/buddyStrings/BuddyStrings.cpp)|Easy|
+|43|[Buddy Strings](https://leetcode.com/problems/multiply-strings/description/) | [Python]
+(./algorithms/Multiply Strings/Multiply Strings.py)|Medium|
